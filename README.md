@@ -1,0 +1,2 @@
+# ArraySiniflari
+www.patika.dev
